@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am dekitproject <br>
-| IT/Graphix Design & Media 💻 <br>
+: IT/Graphix Design & Media 💻 <br>
 ... <br>
 #dekitproject
 
