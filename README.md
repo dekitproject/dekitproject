@@ -1,4 +1,5 @@
-# Hi there - I am dekitproject  👋
+### Hi there 👋
+I am dekitproject
 | IT/Graphix Design & Media
 ...
 #dekitproject
