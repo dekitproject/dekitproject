@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there - I am dekitproject  👋
+| IT/Graphix Design & Media
+...
+#dekitproject
+
 
 <!--
 **dekitproject/dekitproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
